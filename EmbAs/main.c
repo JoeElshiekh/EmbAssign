@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+git anything
 struct student {
     char name[20];
     int id;
